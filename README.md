@@ -1,4 +1,6 @@
-### Hi there 👋
+## UngoAbi
+Hello, I'm UngoAbi. I like math and programming. I also enjoy learning new stuff.
+
 
 <!--
 **UngoAbi/UngoAbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
