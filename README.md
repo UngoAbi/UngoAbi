@@ -1,5 +1,5 @@
 ## UngoAbi
-Hello, I'm UngoAbi. I like math and programming. I also enjoy learning new stuff.
+Main Character and Programming Expert
 
 
 <!--
